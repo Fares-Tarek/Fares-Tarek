@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fares-Tarek
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python data analysis libraries and SQL.
-- 💞️ I’m looking to collaborate on ivetigating data sets and data analysis visualization.
+- 💞️ I’m looking to collaborate on ivestigating data sets and data analysis visualization.
 - 📫 How to reach me: https://www.linkedin.com/in/fares-merghany/
 
 <!---
